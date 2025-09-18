@@ -20,4 +20,10 @@ criaCartao(
     'História',
     'Se você pudesse jantar com qualquer pessoa da história, quem seria?',
     'Leonardo da Vinci – um gênio que misturava arte, ciência e invenção.'
-)
+) 
+
+criaCartao(
+    'Divertida',
+    'Se você fosse um personagem de desenho animado, qual seria?',
+    'Pernalonga – inteligente, sarcástico e sempre se dá bem.'
+)1
