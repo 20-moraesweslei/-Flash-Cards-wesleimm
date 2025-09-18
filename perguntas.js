@@ -14,4 +14,10 @@ criaCartao(
     'Hipotética',
     'E se você pudesse ter qualquer superpoder por um dia, qual escolheria?',
     'Teletransporte – assim daria pra conhecer o mundo inteiro em 24 horas sem gastar nada!'
+) 
+
+criaCartao(
+    'História',
+    'Se você pudesse jantar com qualquer pessoa da história, quem seria?',
+    'Leonardo da Vinci – um gênio que misturava arte, ciência e invenção.'
 )
