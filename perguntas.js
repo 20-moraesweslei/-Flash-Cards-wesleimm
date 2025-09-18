@@ -26,4 +26,10 @@ criaCartao(
     'Divertida',
     'Se você fosse um personagem de desenho animado, qual seria?',
     'Pernalonga – inteligente, sarcástico e sempre se dá bem.'
+) 
+
+criaCartao(
+    'Criativa',
+    'Qual seria o nome do seu livro de autobiografia se fosse uma comédia?',
+    '"Calma, que eu posso piorar!"'
 )
